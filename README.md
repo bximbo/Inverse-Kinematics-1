@@ -1,6 +1,6 @@
 My Inverse Kinematics Elbow down algorithm 🚀
 
-(Control code is separate - Private)
+NB: Control code is separate (Pt2 - Private)
 
 <img width="501" height="918" alt="Screenshot 2025-07-21 at 11 01 31 AM" src="https://github.com/user-attachments/assets/79014a78-0bb2-45f5-8941-3ab56796213d" />
 
